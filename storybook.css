@@ -1,0 +1,19 @@
+.Andy {
+  background-color: #d580ff;
+  font-family: 'Bad Script', cursive;
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+  padding: 5%;
+}
+
+.fingerpoint {
+    font-size: 160%;
+}
+
+.pics {
+  display: block;
+  margin: auto;
+  width: 50%;
+  height: 50%;
+}

@@ -1,0 +1,90 @@
+#p {
+  border: 5px;
+  border-style: dotted;
+  border-color: #ff6666;
+  border-width: thick;
+  background-color: #ffcccc;
+  width: 25px;
+  height: 40px;
+  padding: 15px;
+  font-size: 250%;
+  display: inline-block;
+}
+
+.a {
+  font-family: 'Rock Salt', cursive;
+  display: inline;
+  padding: 15px;
+  font-size: 200%;
+}
+
+#i {
+  font-size: 250%;
+  display: inline;
+  text-shadow: 5px 5px #cc66ff;
+  padding: 20px;
+}
+
+#g {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 250%;
+  display: inline-block;
+  padding: 15px;
+  border: 5px;
+  border-style: dashed;
+  border-color: red;
+}
+
+.e {
+  border: 30px;
+  border-style: solid;
+  border-color: #000066;
+  border-width: thin;
+  background-color: #b3b3ff;
+  padding: 5px;
+  font-size: 350%;
+  display: inline-block;
+  text-align: center;
+}
+
+#space {
+  this is just a placeholder
+}
+
+#n {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 500%;
+  display: inline-block;
+}
+
+#d {
+  border: 70px;
+  border-style: solid dashed dotted double;
+  border-color: #1f3d7a;
+  border-width: thick;
+  background-color: #d6e0f5;
+  padding: 10px;
+  font-size: 350%;
+  display: inline;
+  text-align: center;
+}
+
+#r {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 600%;
+  display: inline-block;
+}
+
+#s {
+  display: inline-block;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 250%;
+  padding: 15px;
+  border: 5px;
+  border-style: dashed;
+  border-color: red;
+}
+
+#o {
+  display: inline-block;
+}

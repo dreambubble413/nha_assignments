@@ -1,0 +1,22 @@
+ul {
+  font-style: italic;
+  background-color: pink;
+  color: black;
+}
+
+iframe {
+  border-radius: 25px;
+}
+
+body {
+  background-color: #f3d8f3;
+}
+
+img {
+  border-radius: 30px;
+}
+
+a {
+  text-align: center;
+  font-style: underline;
+}

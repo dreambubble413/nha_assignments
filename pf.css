@@ -1,0 +1,20 @@
+.pic1 {
+  display: inline-block;
+  border-style: double;
+  border-color: #e62e00;
+  border-width: thick;
+}
+
+img {
+  height: 400px;
+  width: 275px;
+  padding: 20px;
+}
+
+.pic2 {
+  display:inline-block;
+  border-style: solid;
+  border-color: #669999;
+  border-width: thick;
+  padding: 25px;
+}

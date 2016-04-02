@@ -1,0 +1,239 @@
+.dicebox {
+  width: 80px;
+  height: 80px;
+  background-color: #e6ccff;
+  border: solid 3px;
+  border-radius: 12px;
+  display: inline-block;
+}
+
+.dot1_box1 {
+  border: 2px solid black;
+  border-radius: 20px;
+  width: 15px;
+  height: 15px;
+  background-color: black;
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+
+  .dot1_box2 {
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+  .dot2_box2 {
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    top: 30px;
+    left: 50px;
+  }
+
+    .dot1_box3 {
+      border: 2px solid black;
+      border-radius: 20px;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      position: relative;
+      top: 10px;
+      left: 10px;
+    }
+
+      .dot2_box3 {
+        border: 2px solid black;
+        border-radius: 20px;
+        width: 15px;
+        height: 15px;
+        background-color: black;
+        position: relative;
+        top: 13px;
+        left: 33px;
+      }
+
+        .dot3_box3 {
+          border: 2px solid black;
+          border-radius: 20px;
+          width: 15px;
+          height: 15px;
+          background-color: black;
+          position: relative;
+          top: 15px;
+          left: 55px;
+        }
+
+        .dot1_box4 {
+          border: 2px solid black;
+          border-radius: 20px;
+          width: 15px;
+          height: 15px;
+          background-color: black;
+          position: relative;
+          top: 10px;
+          left: 10px;
+        }
+
+        .dot2_box4 {
+          border: 2px solid black;
+          border-radius: 20px;
+          width: 15px;
+          height: 15px;
+          background-color: black;
+          position: relative;
+          left: 50px;
+          bottom: 9px;
+        }
+
+        .dot3_box4{
+          border: 2px solid black;
+          border-radius: 20px;
+          width: 15px;
+          height: 15px;
+          background-color: black;
+          position: relative;
+          left: 10px;
+          top: 9px;
+        }
+
+        .dot4_box4 {
+          border: 2px solid black;
+          border-radius: 20px;
+          width: 15px;
+          height: 15px;
+          background-color: black;
+          position: relative;
+          left: 50px;
+          bottom: 9px;
+        }
+
+        .dot1_box5 {
+          border: 2px solid black;
+          border-radius: 20px;
+          width: 15px;
+          height: 15px;
+          background-color: black;
+          position: relative;
+          left: 375px;
+          bottom: 75px;
+        }
+
+        .dot2_box5 {
+          border: 2px solid black;
+          border-radius: 20px;
+          width: 15px;
+          height: 15px;
+          background-color: black;
+          position: relative;
+          left: 415px;
+          bottom: 94px;
+        }
+
+  .dot3_box5 {
+      border: 2px solid black;
+      border-radius: 20px;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      position: relative;
+      left: 375px;
+      bottom: 75px;
+      }
+
+  .dot4_box5 {
+      border: 2px solid black;
+      border-radius: 20px;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      position: relative;
+      left: 415px;
+      bottom: 93px;
+    }
+
+.dot5_box5 {
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    left: 395px;
+    bottom: 130px;
+  }
+
+  .dot1_box6 {
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    left: 10px;
+    top: 8px;
+  }
+
+    .dot2_box6 {
+      border: 2px solid black;
+      border-radius: 20px;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      position: relative;
+      left: 10px;
+      top: 13px;
+    }
+
+    .dot3_box6 {
+      border: 2px solid black;
+      border-radius: 20px;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      position: relative;
+      left: 10px;
+      top: 18px;
+    }
+
+    .dot4_box6 {
+      border: 2px solid black;
+      border-radius: 20px;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      position: relative;
+      left: 50px;
+      bottom: 50px;
+    }
+
+    .dot5_box6 {
+      border: 2px solid black;
+      border-radius: 20px;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      position: relative;
+      left: 50px;
+      bottom: 45px;
+    }
+
+    .dot6_box6 {
+      border: 2px solid black;
+      border-radius: 20px;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      position: relative;
+      left: 50px;
+      bottom: 40px;
+    }
